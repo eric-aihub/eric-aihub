@@ -1,8 +1,6 @@
 <div align="center">
 
-<img width="1280" height="640" alt="metahub-github-preview-1280x640" src="https://github.com/user-attachments/assets/b25c0095-d893-441d-8a3f-4d83d0b81bc4" />
-
-
+<img src="https://raw.githubusercontent.com/metahub-ai/.github/main/assets/metahub-banner.png" alt="MetaHub Banner" width="100%"/>
 
 </div>
 
@@ -11,7 +9,7 @@
 ## Hi, I'm Jiangli 👋
 
 CTO turned founder based in **Chengdu, China**.  
-Building **[MetaHub](https://github.com/metahub-ai)** — a production-ready control plane for orchestrating AI agents at scale.
+Building **[MetaHub](https://github.com/metahub-tech)** — a production-ready control plane for orchestrating AI agents at scale.
 
 18 years in enterprise SaaS → now going all-in on the agent era.
 
@@ -19,7 +17,7 @@ Building **[MetaHub](https://github.com/metahub-ai)** — a production-ready con
 
 ### 🚀 What I'm building
 
-**[MetaHub · AgentHub](https://github.com/metahub-ai/agentHub)**  
+**[MetaHub · AgentHub](https://github.com/metahub-tech/agentHub)**  
 Cloud Control Plane + Local Data Plane architecture for AI agent management.  
 Agents run 100% locally. Cloud handles auth, config, monitoring, collaboration.
 
@@ -50,7 +48,7 @@ Cloud (AgentHub Admin)          Local Desktop Client
 
 | Repo | Description |
 |------|-------------|
-| 🔧 [agentHub](https://github.com/metahub-ai/agentHub) | Agent Orchestration Platform — FastAPI + React + OpenClaw |
+| 🔧 [agentHub](https://github.com/metahub-tech/agentHub) | Agent Orchestration Platform — FastAPI + React + OpenClaw |
 
 ---
 
@@ -58,7 +56,7 @@ Cloud (AgentHub Admin)          Local Desktop Client
 
 <div align="center">
 
-![Jiangli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eric-aihub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=06B6D4&text_color=94A3B8)
+![Jiangli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qin-jiangli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=06B6D4&text_color=94A3B8)
 
 </div>
 
@@ -66,7 +64,7 @@ Cloud (AgentHub Admin)          Local Desktop Client
 
 ### 📬 Connect
 
-- 🏢 **公司**: [元枢科技 · MetaHub](https://github.com/metahub-ai)
+- 🏢 **公司**: [元枢科技 · MetaHub](https://github.com/metahub-tech)
 - 📍 **Location**: Chengdu, China
 - 💼 **Focus**: AI Agent Orchestration · ToB SaaS · Platform Engineering
 
