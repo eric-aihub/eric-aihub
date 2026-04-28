@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/metahub-ai/.github/main/assets/metahub-banner.png" alt="MetaHub Banner" width="100%"/>
+<img width="1085" height="607" alt="image" src="https://github.com/user-attachments/assets/1a5650cc-aadc-4ad6-9015-353d0fd6f589" />
+
 
 </div>
 
